@@ -1,12 +1,22 @@
 {
-  "name": "get-user-input",
-  "version": "0.0.1",
+  "name": "user-input-cli-test",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willsquad/user-input-cli.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willsquad/user-input-cli/issues"
+  },
+  "homepage": "https://github.com/willsquad/user-input-cli#readme"
 }
